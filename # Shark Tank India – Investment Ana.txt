@@ -1,0 +1,60 @@
+# Shark Tank India – Investment Analysis
+
+## 📌 Project Overview
+
+This project analyzes Shark Tank India startup investment data using Tableau.
+
+The objective of this project is to understand startup distribution, investment patterns, accepted deals and the startups receiving higher investments.
+
+An interactive Tableau dashboard was created to present the analysis in a simple and visual way.
+
+---
+🎯 Objectives
+
+- Analyze Shark Tank India startup data.
+- Identify the total number of startups.
+- Analyze investment amounts across industries.
+- Analyze accepted deals across industries.
+- Identify the top startups based on investment.
+- Create an interactive Tableau dashboard.
+- Present meaningful insights using data visualization.
+
+---
+📊 Dataset
+
+The project uses a Shark Tank India startup dataset containing information related to:
+
+- Startup Name
+- Industry
+- Season Number
+- Episode Number
+- Investment / Deal information
+- Accepted Offer
+- Investor-related information
+
+The dataset contains 789 startup records used for the dashboard analysis.
+
+---
+🛠️ Tools Used
+
+- Microsoft Excel
+- CSV Dataset
+- Tableau Public
+
+---
+ 🔄 Project Workflow
+
+```text
+Dataset
+   ↓
+Data Preparation
+   ↓
+Data Analysis
+   ↓
+KPI Creation
+   ↓
+Data Visualization
+   ↓
+Interactive Dashboard
+   ↓
+Insights
